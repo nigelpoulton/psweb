@@ -10,10 +10,10 @@ RUN apk add --update nodejs nodejs-npm
 # Copy app to /src
 COPY . /src
 
+WORKDIR /src
+
 # Install dependencies
 RUN  npm install
-
-WORKDIR /src
 
 EXPOSE 8080
 
