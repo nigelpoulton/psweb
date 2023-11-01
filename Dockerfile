@@ -1,4 +1,4 @@
-# Test web-app to use with Pluralsight courses and Docker Deep Dive book
+
 FROM alpine
 
 LABEL maintainer="moiz.ece@hotmail.com"
