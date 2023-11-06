@@ -4,7 +4,7 @@
   "version": "0.0.5",
   "description": "Demo app for web container demonstrations",
   "main": "app.js",
-  "author": "Nigel Poulton <nigelpoulton@hotmail.com> (https://nigelpoulton.com)",
+  "author": "Mohammad Moiz <moiz.ece@hotmail.com> (https://mylearninghub.com)",
   "license": "May contain vulnerabilities!",
   "dependencies": {
     "express": "4.18.2",
