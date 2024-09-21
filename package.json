@@ -7,7 +7,7 @@
   "author": "Nigel Poulton <nigelpoulton@hotmail.com> (https://nigelpoulton.com)",
   "license": "May contain vulnerabilities!",
   "dependencies": {
-    "express": "4.19.2",
+    "express": "4.20.0",
     "pug": "3.0.2"
   }
 }
